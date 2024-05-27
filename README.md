@@ -31,4 +31,4 @@ npm run-dev
 
 ### Demo
 
-![](https://github.com/vijethsimha/file-upload/blob/master/demo.mp4)
+![](https://github.com/vijethsimha/file-upload/blob/master/demo.gif)
