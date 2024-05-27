@@ -28,3 +28,7 @@ Start the development server to begin working on the project:
 ```sh
 npm run-dev
 ```
+
+### Demo
+
+![](https://github.com/vijethsimha/file-upload/blob/master/scrnli_5_27_2024_11-44-52%20AM.gif)
