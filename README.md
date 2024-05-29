@@ -26,7 +26,7 @@ npm install
 Start the development server to begin working on the project:
 
 ```sh
-npm run-dev
+npm run dev
 ```
 
 ### Demo
